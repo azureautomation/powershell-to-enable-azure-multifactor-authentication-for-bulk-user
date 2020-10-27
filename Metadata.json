@@ -1,0 +1,20 @@
+{
+    "Author": "ASabale",
+    "ContentSize": 4111,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/powershell-to-enable-azure-multifactor-authentication-for-bulk-user/master/Azure-multi-factor-auth.ps1",
+    "DownloadCount": 1797,
+    "Id": "Powershell-to-enable-Azure-086185a6",
+    "IsFederated": false,
+    "IsWorkflow": false,
+    "Popularity": 397,
+    "RaterCount": 0,
+    "Rating": 0.0,
+    "ReleaseDate": "2017-4-2T00:00:00",
+    "RunbookKind": 5,
+    "RunbookKindString": "PowerShell",
+    "Summary": "Powershell to enable Azure multi-factor authentication for bulk userAttached is the script to enable MFA for bulk user useing powershell. you can specify the users or you can use different method to pass the user principle names to scriptHow to use -\u00a0http://vedtechno.com/how-to-e",
+    "Title": "Powershell to enable Azure multi-factor authentication for bulk user",
+    "UpdatedDate": "2017-7-14T00:00:00",
+    "Url": "https://github.com/azureautomation/powershell-to-enable-azure-multifactor-authentication-for-bulk-user",
+    "UserTags": "Microsoft Azure, Powershell Script, Azure MultiFactor Authentication"
+}
